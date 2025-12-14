@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Love so sweet",
+  "base_artist": "ARASHI",
+  "createdAt": "2025-12-14T02:19:29.241887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love So Sweet",
+      "artist": "Cherry Bullet",
+      "has_synced": true,
+      "path": "select/01_Love_So_Sweet_Cherry_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love So Sweet",
+      "artist": "Arashi",
+      "has_synced": false,
+      "path": "select/02_Love_So_Sweet_Arashi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love So Sweet",
+      "artist": "체리블렛 (Cherry Bullet)",
+      "has_synced": true,
+      "path": "select/03_Love_So_Sweet_체리블렛_(Cherry_Bullet).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love So Sweet",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/04_Love_So_Sweet_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/05_Love_so_sweet_嵐.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Honey My Love (So Sweet)",
+      "artist": "April Boys",
+      "has_synced": true,
+      "path": "select/06_Honey_My_Love_(So_Sweet)_April_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honey, My Love (So Sweet)",
+      "artist": "Jovit Baldivino",
+      "has_synced": true,
+      "path": "select/07_Honey,_My_Love_(So_Sweet)_Jovit_Baldivino.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honey, My Love (So Sweet)",
+      "artist": "Jovit Baldivino",
+      "has_synced": false,
+      "path": "select/08_Honey,_My_Love_(So_Sweet)_Jovit_Baldivino.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honey My Love (So Sweet)",
+      "artist": "APRIL BOYS",
+      "has_synced": true,
+      "path": "select/09_Honey_My_Love_(So_Sweet)_APRIL_BOYS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Honey My Love So Sweet - April Boys (Cover by Nonoy Peña)",
+      "artist": "Nonoy Peña",
+      "has_synced": true,
+      "path": "select/10_Honey_My_Love_So_Sweet_-_April_Boys_(Cover_by_Nonoy_Peña)_Nonoy_Peña.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Honey My Love So Sweet",
+      "artist": "Xian Lim",
+      "has_synced": true,
+      "path": "select/11_Honey_My_Love_So_Sweet_Xian_Lim.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love So Sweet (Love So Sweet)",
+      "artist": "Cherry Bullet",
+      "has_synced": true,
+      "path": "select/12_Love_So_Sweet_(Love_So_Sweet)_Cherry_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/13_Love_so_sweet_嵐.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/14_Love_so_sweet_嵐.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love So Sweet",
+      "artist": "Chastity, Porsha Love",
+      "has_synced": true,
+      "path": "select/15_Love_So_Sweet_Chastity,_Porsha_Love.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love so sweet : Reborn",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/16_Love_so_sweet___Reborn_ARASHI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Love_so_sweet_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Love So Sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_02_Love_So_Sweet_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_03_Love_so_sweet_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Love So Sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_04_Love_So_Sweet_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_05_Love_so_sweet_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_06_Love_so_sweet_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_07_Love_so_sweet_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_08_Love_so_sweet_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_09_Love_so_sweet_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Love so sweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_10_Love_so_sweet_嵐.txt"
+    }
+  ]
+}
